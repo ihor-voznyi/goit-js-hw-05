@@ -22,7 +22,7 @@ console.log(
         },
         {
             name: 'Elma Head',
-            friends: ['Goldie Gentry', 'Aisha Tran'],
+            friends: ['Goldie Gentry', 'Aisha Tran'] ,
             gender: 'female',
         },
         {
