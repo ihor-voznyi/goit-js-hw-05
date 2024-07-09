@@ -7,8 +7,15 @@ console.log(
         {
             name: 'Moore Hensley',
             email: 'moorehensley@indexia.com',
-            balanse: 2811,
+            balance: 2811,
         },
+        {
+
+        },
+        {
+
+        },
+        {}
 
     ])
 );
