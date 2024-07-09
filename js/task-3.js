@@ -21,7 +21,7 @@ console.log(
             gender: 'male',
         },
         {
-            name: 'Elma Head'
+            name: 'Elma Head',
             friends: ['Goldie Gentry', 'Aisha Tran'],
             gender: 'female',
         },
